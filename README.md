@@ -1,6 +1,6 @@
-# 🚀 Zerodha Market Connect Pro (MCP)
+# 🚀 Zerodha Market Connect Pro
 
-A sophisticated algorithmic trading system built for Zerodha's trading platform, combining advanced market analysis with LLM-powered decision making.
+An advanced algorithmic trading system for Zerodha, featuring automated trading strategies, real-time market analysis, and LLM-powered decision making. Built with Python and integrated with Zerodha's Kite API.
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -59,8 +59,8 @@ zerodha_mcp/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/charandeepkapoor/zerodha-mcp.git
-   cd zerodha-mcp
+   git clone https://github.com/SirCharan/zerodha-market-connect-pro.git
+   cd zerodha-market-connect-pro
    ```
 
 2. **Set Up Environment**
