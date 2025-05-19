@@ -2,6 +2,19 @@
 
 An advanced algorithmic trading system for Zerodha, featuring automated trading strategies, real-time market analysis, and LLM-powered decision making. Built with Python and integrated with Zerodha's Kite API.
 
+## 📝 Description
+
+Zerodha Market Connect Pro (MCP) is a comprehensive algorithmic trading platform designed specifically for Zerodha traders. This system combines cutting-edge technology with sophisticated trading strategies to provide a powerful automated trading solution. Here's what makes it special:
+
+- **Intelligent Trading**: Leverages Large Language Models (LLMs) for market analysis and trading decisions
+- **Real-time Processing**: Handles live market data with low-latency execution and websocket streaming
+- **Risk Management**: Implements robust risk controls including position sizing, stop-losses, and exposure limits
+- **Strategy Flexibility**: Supports multiple trading strategies with customizable parameters
+- **Professional Tools**: Includes advanced technical analysis, volume profiling, and price action pattern recognition
+- **Developer Friendly**: Well-documented API, extensive testing suite, and Docker support for easy deployment
+
+Perfect for both professional traders looking to automate their strategies and developers interested in algorithmic trading.
+
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Zerodha-orange)
