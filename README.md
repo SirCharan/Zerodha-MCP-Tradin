@@ -167,16 +167,16 @@ strategies:
 
 1. **Build Image**
    ```bash
-   docker build -t zerodha-mcp .
+   docker build -t zerodha-market-connect-pro .
    ```
 
 2. **Run Container**
    ```bash
    docker run -d \
-     --name zerodha-mcp \
+     --name zerodha-market-connect-pro \
      -v $(pwd)/config:/app/config \
      -v $(pwd)/.env:/app/.env \
-     zerodha-mcp
+     zerodha-market-connect-pro
    ```
 
 ## 📈 Performance Monitoring
@@ -301,8 +301,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 📧 Email: charandeepkapoor3@gmail.com
 - 💻 GitHub: [@SirCharan](https://github.com/SirCharan)
-- 📝 Issues: [GitHub Issues](https://github.com/SirCharan/zerodha-mcp/issues)
-- 📚 Wiki: [Project Documentation](https://github.com/SirCharan/zerodha-mcp/wiki)
+- 📝 Issues: [GitHub Issues](https://github.com/SirCharan/zerodha-market-connect-pro/issues)
+- 📚 Wiki: [Project Documentation](https://github.com/SirCharan/zerodha-market-connect-pro/wiki)
 
 ## 🙏 Acknowledgments
 

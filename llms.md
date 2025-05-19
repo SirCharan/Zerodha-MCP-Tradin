@@ -230,11 +230,11 @@ Real-time monitoring available through:
 - License: MIT
 - Author: Charandeep Kapoor
 - Email: charandeepkapoor3@gmail.com
-- Repository: https://github.com/SirCharan/zerodha-mcp
+- Repository: https://github.com/SirCharan/zerodha-market-connect-pro
 
 ## Contact & Support
 
 - GitHub: [@SirCharan](https://github.com/SirCharan)
 - Email: charandeepkapoor3@gmail.com
-- Issues: [GitHub Issues](https://github.com/SirCharan/zerodha-mcp/issues)
-- Documentation: [Project Wiki](https://github.com/SirCharan/zerodha-mcp/wiki) 
+- Issues: [GitHub Issues](https://github.com/SirCharan/zerodha-market-connect-pro/issues)
+- Documentation: [Project Wiki](https://github.com/SirCharan/zerodha-market-connect-pro/wiki) 
